@@ -4,7 +4,7 @@ docker mariadb image
 
 * same as [official mariadb build](https://hub.docker.com/_/mariadb/) as possible
 * su-exec instead of gosu
-* use apk mysql package based on alpine:3.4 image
+* use apk mariadb package based on alpine:3.4 image
 
 ## image size
 
