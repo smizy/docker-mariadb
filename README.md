@@ -10,7 +10,7 @@ docker mariadb image
 
 ```
 REPOSITORY             TAG                 IMAGE ID            CREATED             SIZE
-smizy/mariadb          latest              d9f0fff77320        17 minutes ago      171 MB
+smizy/mariadb          latest              d9f0fff77320        17 minutes ago      172.3 MB
 mariadb                latest              0112f2662974        10 days ago         387.7 MB
 ```
 
